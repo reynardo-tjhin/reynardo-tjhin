@@ -1,6 +1,4 @@
-# Hi there 👋
-
-Hey there! 👋 I'm Rey!
+# Hi there! 👋 I'm Rey
 
 I'm a backend developer who loves building things that actually solve problems — whether that's at work or just tinkering on personal projects at home.
 
