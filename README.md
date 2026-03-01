@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**reynardo-tjhin/reynardo-tjhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋 I'm Rey!
 
-Here are some ideas to get you started:
+I'm a backend developer who loves building things that actually solve problems — whether that's at work or just tinkering on personal projects at home.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ What I work with
+
+At my day job I write a lot of Lua and Batch scripting, but my personal stack leans into Python and JavaScript/TypeScript. I've worked with frameworks and tools like Flask, Express.js, Redis, PostgreSQL, SQLite3, pandas, Librosa, Playwright, and Bootstrap — basically whatever gets the job done.
+
+🔭 What I'm building right now
+
+A home media server — started as a way to stream downloaded movies at home, with more features on the way
+A classical music cleanup tool that removes audience applause from concert recordings (I used machine learning to identify whether a small clip of audio has audience claps)
+
+📬 Open to opportunities
+
+I'm currently looking for full-time backend roles — and I'm open to full-stack positions too if the right opportunity comes along. Feel free to reach out at <reychen26@gmail.com>!
