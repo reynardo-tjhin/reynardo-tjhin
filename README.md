@@ -9,6 +9,7 @@ At my day job, I write a lot of Lua and Batch scripting, but my personal stack l
 ## 🔭 What I'm building right now
 
 - A home media server — started as a way to stream downloaded movies at home, with more features on the way
+- A script progress watcher - started as a way to track the progress of the scripts (for web scraping tasks, or sending tasks to local LLMs)
 - A classical music cleanup tool that removes audience applause from concert recordings (I used machine learning to identify whether a small clip of audio has audience claps)
 
 ## 📬 Open to opportunities
