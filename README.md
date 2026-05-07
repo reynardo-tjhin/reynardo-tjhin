@@ -2,6 +2,8 @@
 
 I'm a backend developer who loves building things that actually solve problems — whether that's at work or just tinkering on personal projects at home.
 
+Checkout my website - [Reynardo Tjhin](reynardo-tjhin.github.io)
+
 ## 🛠️ What I work with
 
 At my day job, I write a lot of Lua and Batch scripting, but my personal stack leans into Python and JavaScript/TypeScript. I've worked with frameworks and tools like Flask, Express.js, Redis, PostgreSQL, SQLite3, pandas, Librosa, Playwright, and Bootstrap — basically whatever gets the job done.
